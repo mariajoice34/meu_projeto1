@@ -57,7 +57,7 @@
   color: black;
   max-width: 300px; /* Limita a largura do texto */
   padding: 20px; /*espaçamento interno*/
-  background-color: rgba(255,255,255,0.2);/* Fundo branco com 20% de transparência */
+  background-color: rgba(255,255,255,0.8);/* Fundo branco com 20% de transparência */
   border-radius: 10px; /* Bordas arredondadas */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para destacar o texto */
 
